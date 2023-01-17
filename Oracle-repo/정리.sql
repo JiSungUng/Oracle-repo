@@ -1,0 +1,4 @@
+--SQL의 종류
+--DDL - create, drop(테이블 삭제), alter(구조 수정)
+--DML -insert,delete(데이터 삭제),update(데이터 수정),select
+--DCL-Grant,Revoke 
