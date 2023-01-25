@@ -1,0 +1,8 @@
+create sequence seq_score;
+
+--성적 테이블
+create table score (num number(5) primary key,
+name varchar2(20),
+java number(5),
+oracle number(5),
+total number(5) , average number(6,2));
